@@ -2,7 +2,6 @@
 a `~ m n m l ~` watch face for Tizen OS.  
 
 ![img](icon.png)
-![img2](images/nice_pic.jpg)
 
 ## Build instructions
 1. Get Tizen Studio
@@ -11,3 +10,6 @@ a `~ m n m l ~` watch face for Tizen OS.
 4. Build and install on your device  
 
 [Licensed under GNU General Public License v3.0](LICENSE)
+
+## Nice pic
+![img2](images/nice_pic.jpg)
