@@ -2,6 +2,7 @@
 a `~ m n m l ~` watch face for Tizen OS.  
 
 ![img](icon.png)
+![img2](images/nice_pic.jpg)
 
 ## Build instructions
 1. Get Tizen Studio
