@@ -1,0 +1,83 @@
+@import url(fonts.css);
+
+body {
+  width: 100%;
+  height: 100%;
+  font-family: Roboto !important;
+  font-size: 16px;
+}
+
+#digital-body {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  background-size: 100%;
+  background-color: black;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  font-family: Roboto;
+}
+
+/*
+hour&minutes
+*/
+
+#base {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-left: 56px;
+  font-family: Roboto;
+}
+
+#its,
+#walked {
+  font-size: 24px;
+  float: left;
+  font-weight: 300;
+  font-family: Roboto;
+  color: #cccccc;
+}
+
+#str-hours,
+#str-minutes {
+  font-size: 48px;
+  float: left;
+  color: white;
+  font-weight: 400;
+  font-family: Roboto;
+}
+
+#str-day,
+#steps {
+  font-size: 24px;
+  float: left;
+  font-weight: 300;
+  font-family: Roboto;
+  color: #cccccc;
+  margin-bottom: 2px;
+}
+
+#str-day {
+  margin-top: 8px;
+}
+
+#steps-count {
+  font-weight: 400;
+}
+
+.line {
+  width: 40px;
+  float: left;
+  height: 1px;
+  background-color: black;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 2px;
+}
