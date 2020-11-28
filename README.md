@@ -1,6 +1,5 @@
 # mnml
 a `~ m n m l ~` watch face for Tizen OS.  
-[Licensed under GNU General Public License v3.0](LICENSE)
 
 ![img](icon.png)
 
@@ -9,3 +8,5 @@ a `~ m n m l ~` watch face for Tizen OS.
 2. Get the Samsung certification plugin
 3. Set up your author signature
 4. Build and install on your device  
+
+[Licensed under GNU General Public License v3.0](LICENSE)
