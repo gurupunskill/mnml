@@ -1,6 +1,6 @@
 # mnml
 a `~ m n m l ~` watch face for Tizen OS.  
-[Licensed under GNU General Public License v3.0](License)
+[Licensed under GNU General Public License v3.0](LICENSE)
 
 ![img](icon.png)
 
